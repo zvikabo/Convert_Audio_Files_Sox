@@ -17,6 +17,4 @@ if __name__=='__main__':
     main()
 
 
-import paramiko
-www=paramiko.SSHClient.connect('aaa','bbb','ccc')
-www
+
