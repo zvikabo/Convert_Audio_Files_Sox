@@ -3,7 +3,7 @@ This script convert music files format using sox (Free music format converter)
 by using subprocess with the relevant parameters:
 Channels =1 means mono
 rate bit = 8000 Mhz
-encoding : A-Laq
+encoding : a-law
 using soxi.exe ( Actually a copy od SOX.exe and rename it to soxi.exe return ths file properties
 """
 
